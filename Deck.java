@@ -3,7 +3,7 @@ import java.lang.Math;
 /**
  * Write a description of class Deck here.
  * 
- * @author (your name) 
+ * @author (K) 
  * @version (a version number or a date)
  */
 public class Deck
